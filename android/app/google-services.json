@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480996269972",
+    "project_id": "shakka-f9f2e",
+    "storage_bucket": "shakka-f9f2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480996269972:android:d612f1ed1b02dbbff1b981",
+        "android_client_info": {
+          "package_name": "com.example.Shakka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480996269972-sfnlbh83cs5bsvdvbv68397qagcq739m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0v0d_R_G9AiWWsF4tVCNtVPbGzSsRUQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480996269972-sfnlbh83cs5bsvdvbv68397qagcq739m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
