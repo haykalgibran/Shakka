@@ -1,4 +1,4 @@
-# Shakk
+# Shakka
 
 Shakka is a boarding house finder application from BWA
 
