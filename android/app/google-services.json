@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "480996269972",
-    "project_id": "shakka-f9f2e",
-    "storage_bucket": "shakka-f9f2e.appspot.com"
+    "project_number": "881801295911",
+    "project_id": "shakka-a33c8",
+    "storage_bucket": "shakka-a33c8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:480996269972:android:d612f1ed1b02dbbff1b981",
+        "mobilesdk_app_id": "1:881801295911:android:2cc3a3552a87ef17c3f602",
         "android_client_info": {
-          "package_name": "com.example.Shakka"
+          "package_name": "com.gibran.Shakka"
         }
       },
       "oauth_client": [
         {
-          "client_id": "480996269972-sfnlbh83cs5bsvdvbv68397qagcq739m.apps.googleusercontent.com",
+          "client_id": "881801295911-vrriou65mc1p187c9buau19snftnfn16.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC0v0d_R_G9AiWWsF4tVCNtVPbGzSsRUQw"
+          "current_key": "AIzaSyBNGfUhyFe74aE--uJ9W2FmY5HDUPlVRGI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "480996269972-sfnlbh83cs5bsvdvbv68397qagcq739m.apps.googleusercontent.com",
+              "client_id": "881801295911-vrriou65mc1p187c9buau19snftnfn16.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
