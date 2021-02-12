@@ -4,7 +4,7 @@ Shakka is a boarding house finder application from BWA
 
 <img width="195" alt="shakka 1" src="https://user-images.githubusercontent.com/72286425/107740437-b4e0dc00-6d3d-11eb-8360-cce9fc5d68c8.png"> <img width="195" alt="shakka 2" src="https://user-images.githubusercontent.com/72286425/107740438-b7433600-6d3d-11eb-96e8-f0df1d61a2a6.png"> <img width="196" alt="shakka 3" src="https://user-images.githubusercontent.com/72286425/107740440-b7dbcc80-6d3d-11eb-895d-b1817d73afb5.png">
 
-# Donwload on Google Play Store
+# Download on Google Play Store
 
 https://play.google.com/store/apps/details?id=com.gibran.Shakka
 
